@@ -27,5 +27,10 @@ Analysed retail transaction data using Python and Power BI to identify sales tre
 - Prepare inventory for periods of high sales demand.
 - Explore opportunities to expand sales outside the UK.
 
+## Dataset Source
+**Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
+
+The dataset contains 541,909 retail transactions recorded between December 2010 and December 2011.
+
 ## Author
 Olasunkanmi Adisa
